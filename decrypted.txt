@@ -1,0 +1,2 @@
+This is a encryption/decryption tool that uses the XChaCha20-Poly1305 cipher. It is a variant of the ChaCha20-Poly1305 cipher that uses a 192-bit nonce instead of a 96-bit nonce. This allows for a larger number of messages to be encrypted with the same key without the risk of nonce reuse.
+This is not a real-world example. Please don't use this in production. This is just a proof of concept.
